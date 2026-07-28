@@ -1,38 +1,67 @@
-# Olá! 👋 Eu sou Samara Davy
+<h1 align="center">Olá! 👋 Eu sou Samara Davy</h1>
 
-## 💻 Desenvolvedora Front-end em formação
+<h3 align="center">
+Desenvolvedora Front-end • Estudante de Análise e Desenvolvimento de Sistemas
+</h3>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNIJORGE)
+<p align="center">
+  <a href="https://www.linkedin.com/in/samaradavy">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-🚀 Formada no programa Ford Enter – SENAI CIMATEC
+  <a href="https://projeto-final-omega-roan.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 
-📍 Salvador - BA
-
----
-
-## 👩‍💻 Sobre mim
-
-Sou estudante de Análise e Desenvolvimento de Sistemas apaixonada por desenvolvimento Front-end.
-
-Após construir uma sólida carreira na área administrativa, decidi migrar para a tecnologia e hoje busco minha primeira oportunidade como Desenvolvedora Front-end.
-
-Gosto de criar interfaces intuitivas, aprender novas tecnologias e desenvolver projetos que resolvam problemas reais.
-
----
-
-## 🚀 Tecnologias
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,git,github,vscode" />
+  <a href="https://github.com/SamaraDavy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 📌 Projeto em destaque
+# 👩‍💻 Sobre mim
 
-### DevPath
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNIJORGE** e concluinte do programa **Ford Enter**, realizado pelo **SENAI CIMATEC**.
 
-Aplicação desenvolvida em Angular para auxiliar estudantes na organização dos estudos em tecnologia.
+Após atuar por vários anos na área administrativa, decidi migrar para a tecnologia e atualmente busco minha primeira oportunidade como **Desenvolvedora Front-end**.
+
+Tenho interesse em desenvolver aplicações modernas, intuitivas e responsivas, utilizando boas práticas de desenvolvimento e sempre buscando evoluir meus conhecimentos.
+
+---
+
+# 🚀 Tecnologias
+
+### Front-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular" />
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+# 📌 Projeto em Destaque
+
+# 🚀 DevPath
+
+Aplicação desenvolvida em **Angular** para auxiliar estudantes na organização dos estudos em tecnologia.
+
+## Funcionalidades
+
+- ✅ Login de usuário
+- ✅ Cadastro
+- ✅ Dashboard
+- ✅ Mapas de conhecimento
+- ✅ Cadastro de anotações
+- ✅ Perfil do usuário
+- ✅ Armazenamento Local (LocalStorage)
+- ✅ Interface Responsiva
 
 ### Tecnologias
 
@@ -42,38 +71,87 @@ Aplicação desenvolvida em Angular para auxiliar estudantes na organização do
 - CSS3
 - LocalStorage
 
-🌐 Projeto Online
+### 🌐 Acesse o projeto
 
-https://projeto-final-omega-roan.vercel.app
+🔗 https://projeto-final-omega-roan.vercel.app
 
-💻 Código
+### 💻 Código-fonte
 
-https://github.com/SamaraDavy/Projeto-final
+🔗 https://github.com/SamaraDavy/Projeto-final
 
 ---
 
-## 📚 Atualmente estudando
+# 💼 Competências
+
+✔ Desenvolvimento Front-end
+
+✔ Angular
+
+✔ JavaScript
+
+✔ TypeScript
+
+✔ HTML5
+
+✔ CSS3
+
+✔ Git e GitHub
+
+✔ Responsividade
+
+✔ Componentização
+
+✔ Consumo de APIs REST
+
+✔ Versionamento de código
+
+---
+
+# 📚 Atualmente estudando
 
 - Angular
 - TypeScript
 - APIs REST
-- Git/GitHub
 - Boas práticas de Front-end
+- Desenvolvimento de interfaces
+- Arquitetura de aplicações
 
 ---
 
-## 🎯 Objetivo
+# 🎯 Objetivo
 
-Conquistar uma oportunidade de estágio ou desenvolvedora Front-end Júnior para colocar meus conhecimentos em prática e continuar evoluindo na área de tecnologia.
+Busco uma oportunidade de **Estágio** ou **Desenvolvedora Front-end Júnior**, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções de qualidade.
 
 ---
 
-## 📫 Contato
+# 📫 Contato
+
+📍 Salvador - BA
+
+📧 **samara.davy@hotmail.com**
 
 💼 LinkedIn
 
 https://www.linkedin.com/in/samaradavy
 
-📧
+🌐 GitHub
 
-samara.davy@hotmail.com
+https://github.com/SamaraDavy
+
+---
+
+# 📈 Estatísticas
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SamaraDavy&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaraDavy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+✨ Obrigada pela visita ao meu perfil! Estou sempre aprendendo e aberta a novas oportunidades e desafios.
+</p>

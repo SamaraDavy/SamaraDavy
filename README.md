@@ -1,16 +1,79 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Samara Davy
 
-<!--
-**SamaraDavy/SamaraDavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Desenvolvedora Front-end em formação
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNIJORGE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Formada no programa Ford Enter – SENAI CIMATEC
+
+📍 Salvador - BA
+
+---
+
+## 👩‍💻 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas apaixonada por desenvolvimento Front-end.
+
+Após construir uma sólida carreira na área administrativa, decidi migrar para a tecnologia e hoje busco minha primeira oportunidade como Desenvolvedora Front-end.
+
+Gosto de criar interfaces intuitivas, aprender novas tecnologias e desenvolver projetos que resolvam problemas reais.
+
+---
+
+## 🚀 Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,git,github,vscode" />
+</p>
+
+---
+
+## 📌 Projeto em destaque
+
+### DevPath
+
+Aplicação desenvolvida em Angular para auxiliar estudantes na organização dos estudos em tecnologia.
+
+### Tecnologias
+
+- Angular
+- TypeScript
+- HTML5
+- CSS3
+- LocalStorage
+
+🌐 Projeto Online
+
+https://projeto-final-omega-roan.vercel.app
+
+💻 Código
+
+https://github.com/SamaraDavy/Projeto-final
+
+---
+
+## 📚 Atualmente estudando
+
+- Angular
+- TypeScript
+- APIs REST
+- Git/GitHub
+- Boas práticas de Front-end
+
+---
+
+## 🎯 Objetivo
+
+Conquistar uma oportunidade de estágio ou desenvolvedora Front-end Júnior para colocar meus conhecimentos em prática e continuar evoluindo na área de tecnologia.
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/samaradavy
+
+📧
+
+samara.davy@hotmail.com
